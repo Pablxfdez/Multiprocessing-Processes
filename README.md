@@ -1,8 +1,30 @@
-# Multiprocessing
-En esta tarea vamos a probar el multiprocessing de python. Se trata de teclear los programas y observar su resultado.
+# Multiprocessing Scripts Repository
 
-La ejecución de los programas se debe hacer en el terminal.
-La subida consiste en poner el enlace git <code>https</code> en la tarea.
-Se debe ejecutar el comando script multiprocessing.txt antes de empezar a hacer nada. Al terminar la sesión se pulsa ctrl-D para finalizar la sesión. Si la sesión se interrumpe se debe iniciar otra sesión con el sufijo _01.txt. Si se vuelve a romper se añadiría _02.txt, y así hasta el aburrimiento.
-Se deben subir al repositorio git los ficheros de sesión y los programas .py. Se puede continuar fuera del laboratorio si es preciso, pero el enlace del repositorio git solo se puede poner en el laboratorio.
-Esta tarea se realizará de forma individual y contará como participación en la nota final.
+This repository is dedicated to showcasing various scripts that demonstrate the use of multiprocessing in Python. Each script provides a different example or aspect of how multiprocessing can be utilized to handle parallel processing tasks. These scripts are particularly useful for understanding the basics and advanced concepts of multiprocessing in Python.
+
+## Files and Descriptions:
+
+1. **0_procesos.py**
+   - **Description**: An introductory script to multiprocessing. It sets the foundation for understanding how to spawn multiple processes in Python.
+
+2. **1_procesos.py**
+   - **Description**: This script builds upon the initial concepts introduced in `0_procesos.py`, showcasing slightly more complex multiprocessing tasks.
+
+3. **2_procesos.py**
+   - **Description**: A further advanced script in the series, demonstrating more intricate multiprocessing functionalities and methods.
+
+4. **3_procesos.py**
+   - **Description**: This script delves into even more complex aspects of multiprocessing, showing how to handle more sophisticated parallel processing scenarios.
+
+5. **4_procesos.py**
+   - **Description**: The most advanced script in the series, illustrating the full capabilities of multiprocessing in Python, including synchronization, sharing data between processes, and other advanced techniques.
+
+6. **README.md**
+   - **Description**: The file you are currently reading. It provides an overview and descriptions of the contents of this repository.
+
+7. **multiprocessing.txt**
+   - **Description**: A text file containing additional notes, tips, or documentation relevant to the multiprocessing scripts in this repository.
+
+## Repository Overview:
+
+This collection of scripts is ideal for anyone looking to understand or improve their knowledge of multiprocessing in Python. Starting from basic examples and gradually moving to more complex scenarios, these scripts offer a comprehensive guide through the multiprocessing module. Whether you are a beginner or an experienced programmer, these scripts provide valuable insights into the power and flexibility of parallel processing in Python.

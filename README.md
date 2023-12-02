@@ -1,6 +1,6 @@
 # Multiprocessing Scripts Repository
 
-This repository is dedicated to showcasing various scripts that demonstrate the use of multiprocessing in Python. Each script provides a different example or aspect of how multiprocessing can be utilized to handle parallel processing tasks. These scripts are particularly useful for understanding the basics and advanced concepts of multiprocessing in Python.
+This repository is dedicated to showcasing various scripts that demonstrate the use of multiprocessing in Python. Each script provides a different example or aspect of how multiprocessing can be utilized to handle parallel processing tasks.
 
 ## Files and Descriptions:
 
